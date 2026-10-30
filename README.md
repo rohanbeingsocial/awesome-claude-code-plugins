@@ -198,6 +198,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [ai-dev-jobs-search](./plugins/ai-dev-jobs-search)
 - [nhs-mcp-search](./plugins/nhs-mcp-search)
 - [session-tax](./plugins/session-tax)
+- [Showboard](https://github.com/rohanbeingsocial/showboard) — Ask about Excel, CSV, SQLite or Postgres data and get a dashboard beside the chat, with the read-only SQL behind every chart. `/plugin install showboard --marketplace rohanbeingsocial/showboard`. MIT.
 
 ### Audio & Media
 - [bibigpt-skill](https://github.com/JimmyLv/bibigpt-skill) - AI-powered video, audio & podcast summarization
